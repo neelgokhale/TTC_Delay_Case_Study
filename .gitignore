@@ -1,10 +1,9 @@
 .DS_Store
 .ipynb_checkpoints
 */.ipynb_checkpoints
-/output/imgs
-/output/htmlfiles
+/output/imgs/*
+/output/htmlfiles/*
 /Maps_Bike_Data.ipynb
 *.geojson
 map1.html
 map2.html
-output/imgs/map.html
